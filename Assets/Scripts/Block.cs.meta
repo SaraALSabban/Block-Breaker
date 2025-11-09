@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: ccb57105cf69e1049b9370fa2f75fdd0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - breakBloak: {instanceID: 0}
+  - blockSparklesVFX: {fileID: 100000, guid: 7d846c02296ef4dc4abff04ce3e5262c, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
